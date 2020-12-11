@@ -8,4 +8,4 @@ Watch tutorial on youtube.
 
 # Local Development
 
-".Open index.html
+1.Open index.html
